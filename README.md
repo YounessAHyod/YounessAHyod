@@ -3,7 +3,7 @@
 Final-semester Computer Engineering student specializing in cybersecurity.  
 I focus on **blue-team security**, detection engineering, network monitoring, and secure backend systems.
 
-I build projects that simulate **real security workflows**: collecting data, detecting threats, reducing false positives and explaining security decisions clearly.
+I build projects that simulate real security workflows: collecting telemetry, detecting threats, reducing false positives and clearly explaining security decisions.
 
 +#+ Career Goals after Graduation:
 
@@ -61,11 +61,11 @@ Security-first backend design
 
 Languages: Python, Java, JavaScript, C# 
 
-Security: Networking, IDS/IPS concepts, log analysis
+Security: Networking fundamentals, IDS/IPS concepts, log analysis
 
-**Tools:** Linux, Git, Docker, Packet Tracer
+Tools: Linux, Git, Docker, Packet Tracer
 
-**Concepts:** Authentication, access control, threat modeling
+Concepts: Authentication, access control, threat modeling
 
 
 +#+ Contact
