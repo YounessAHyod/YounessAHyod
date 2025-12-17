@@ -26,7 +26,7 @@ Seeking : Junior Cybersecurity / SOC / Security Engineering roles where I can gr
 
  Projects below are intended to mirror actual real world security tasks
 
-+#+ Mini-SIEM Lab *(Completed)*
++#+ Mini-SIEM Lab *(In progress)*
 Log ingestion and normalization → detection rules → alerts
 
 - Parses security and system log
@@ -45,7 +45,7 @@ Network traffic analysis and threat detection
   
 - Evaluation of detection accuracy
 
-+#+ Secure REST API *(Completed)*
++#+ Secure REST API *(In progress)*
 
 Security-first backend design
 
