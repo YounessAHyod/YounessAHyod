@@ -45,7 +45,7 @@ Network traffic analysis and threat detection
   
 - Evaluation of detection accuracy
 
-+#+ Secure REST API *(in progress)*
++#+ Secure REST API *(Completed)*
 
 Security-first backend design
 
